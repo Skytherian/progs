@@ -1,3 +1,4 @@
+# We will try to model the churn of customers and whether the given customer will churn or not
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd

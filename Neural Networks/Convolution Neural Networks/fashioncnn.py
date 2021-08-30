@@ -1,3 +1,4 @@
+#We will try to classify pieces of clothing from the MNIST dataset
 import tensorflow as tf
 mnist = tf.keras.datasets.fashion_mnist
 
