@@ -16,8 +16,8 @@ This model uses XGBoost technique for regression
 | SVM       | 17.118 |
 | XGBoost   | 9.81   |
 
-## Conclusion
+# Conclusion
   
-The XGBoost technique is the best for accuracy but the Ensemble model is not for behind, while the XGBoost model is not interpretable as much as the Ensemble model.  
+The XGBoost technique is the best for accuracy but the Ensemble model is not far behind, while the XGBoost model is not interpretable as much as the Ensemble model.  
   
 From the diaganostic plots for the WLS model in the Ensemble model we can see that there is hetereoskedasticity present.
